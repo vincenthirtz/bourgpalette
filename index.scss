@@ -82,7 +82,7 @@ $roof-skew: 24deg;
 	--primary-color: #{map-get($colors, pallet)};
 	--secondary-color: #{$secondary-color};
 }
-body {
+/* body {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -94,7 +94,7 @@ body {
 }
 .container {
 	flex: 0 0 auto;
-}
+} */
 
 .house {
 	position: relative;
